@@ -23,8 +23,8 @@
 
 1.  **Клонируйте репозиторий:**
     ```bash
-    git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
-    cd YOUR_REPOSITORY_NAME
+    git clone https://github.com/maksimmontage-crypto/Messenger-Max-Dify-Bot.git
+    cd Messenger-Max-Dify-Bot
     ```
 
 2.  **Создайте и активируйте виртуальное окружение (рекомендуется):**
